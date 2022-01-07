@@ -1,6 +1,8 @@
 # Insertion-Sort-Project
 Patika.dev insertion-sort
 
+PROJECT1
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -33,3 +35,24 @@ Best case : 2
 [2,3,5,8,7,9,4,15,6] -> (n-1) 
 [2,3,4,8,7,9,5,15,6] -> (n-2) 
 [2,3,4,5,7,9,8,15,6] -> (n-3)
+
+PROJECT3 : Binary Search Tree
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+[0,1,2,3,4,5,6,7,8,9]
+root number =7 
+
+           7
+         /   \
+        5     8
+       / \     \
+      1   6     9
+     / \
+    0   3
+       / \
+      2   4
+
+
